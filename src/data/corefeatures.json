@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "subtitle": "Goal Setup",
+    "title": "KPI Software with Easy Goal Setup Function.",
+    "info": "Streamline goal setup, save time and money, and achieve greater success.",
+    "img": "src/assets/features-block-1.png",
+    "icon": "src/assets/features-check-icon.svg",
+    "list": ["Distribute goals to divisions and departments", "Hierarchy-based goal approval system", "Divide goals into yearly, quarterly, monthly basis.", "Company’s core goal setup", "Self-goal Setting Options"]
+  },
+  {
+    "id": 2,
+    "subtitle": "Features",
+    "title": "KPI Software with the Best Appraisement Process System.",
+    "info": "Zaikpi empowers employees with the best-in-class evaluation system to track, ",
+    "img": "src/assets/features-block-2.png",
+    "icon": "src/assets/features-check-icon.svg",
+    "list": ["Appraise performance with graphs, pie charts, curves etc", "Take decisions based on the session appraisement scores", "Division, Department, and Team Wise performance tracking", "Track self performance to boost individual’s work capability", "Forecast in a better way based on real data"]
+  }
+]
