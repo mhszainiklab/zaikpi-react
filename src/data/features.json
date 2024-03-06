@@ -2,51 +2,51 @@
   {
     "id": 1,
     "title": "Goal Setup System",
-    "img": "src/assets/features-item-1.svg"
+    "img": "/assets/features-item-1.svg"
   },
   {
     "id": 2,
     "title": "Goal Approval System",
-    "img": "src/assets/features-item-2.svg"
+    "img": "/assets/features-item-2.svg"
   },
   {
     "id": 3,
     "title": "Create Session Phase",
-    "img": "src/assets/features-item-3.svg"
+    "img": "/assets/features-item-3.svg"
   },
   {
     "id": 4,
     "title": "Session Wise Appraisement Process",
-    "img": "src/assets/features-item-4.svg"
+    "img": "/assets/features-item-4.svg"
   },
   {
     "id": 5,
     "title": "Goal Distribution To Achieve Success",
-    "img": "src/assets/features-item-5.svg"
+    "img": "/assets/features-item-5.svg"
   },
   {
     "id": 6,
     "title": "Goal Approval Appraisement Smart Settings",
-    "img": "src/assets/features-item-6.svg"
+    "img": "/assets/features-item-6.svg"
   },
   {
     "id": 7,
     "title": "Create And Manage Employees",
-    "img": "src/assets/features-item-7.svg"
+    "img": "/assets/features-item-7.svg"
   },
   {
     "id": 8,
     "title": "Create Department, Division & Designation For Employees",
-    "img": "src/assets/features-item-8.svg"
+    "img": "/assets/features-item-8.svg"
   },
   {
     "id": 9,
     "title": "Set The Number Of Goals As Per Requirement",
-    "img": "src/assets/features-item-9.svg"
+    "img": "/assets/features-item-9.svg"
   },
   {
     "id": 10,
     "title": "Role & permission Settings",
-    "img": "src/assets/features-item-10.svg"
+    "img": "/assets/features-item-10.svg"
   }
 ]
